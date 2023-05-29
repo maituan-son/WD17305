@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": ""
+    },
+    {
+      "name": "sản phẩm mới vừa thêm update",
+      "price": 300,
+      "id": 4
+    },
+    {
+      "name": "mai tuan son",
+      "price": 666,
+      "id": 6
+    },
+    {
+      "name": "mai tuan son",
+      "price": 0,
+      "id": 7
+    },
+    {
+      "name": "Prodicu 4",
+      "price": 777,
+      "id": 8
+    }
+  ]
+}
